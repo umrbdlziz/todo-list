@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "dummyuser1",
+      "email": "dummyuser1@example.com"
+    },
+    {
+      "id": 2,
+      "username": "dummyuser2",
+      "email": "dummyuser2@example.com"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "task": "Updated task description",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "task": "Read a book",
+      "completed": true
+    }
+  ]
+}
